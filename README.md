@@ -1,0 +1,1 @@
+This repo contains my works for comp 2012h, the data structures class I took at the Hong Kong University of Science and Technology.
