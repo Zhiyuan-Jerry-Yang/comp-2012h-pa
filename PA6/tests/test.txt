@@ -1,0 +1,6 @@
+TABLE_NAME
+3
+2
+*ID 0, AGE 0, NAME 1
+1, 21, Andy
+0, 11, Bill

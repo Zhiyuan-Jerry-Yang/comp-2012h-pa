@@ -1,0 +1,33 @@
+Sample_DB
+8
+Table_2
+0
+0
+Table_3
+0
+0
+Table_4
+0
+0
+Table_5
+4
+6
+Year 0, Name 1, *SID 0, Interest 1
+2, John, 3, Fishing
+4, Jill, 1, Swimming
+1, Abraham, 0, Snooker
+1, Kimiko, 6, Programming
+3, Frank, 2, Basketball
+2, Alexis, 4, Football
+Table_6
+0
+0
+Table_7
+0
+0
+Table_8
+0
+0
+Table_9
+0
+0

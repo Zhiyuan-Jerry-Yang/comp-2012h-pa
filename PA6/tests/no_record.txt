@@ -1,0 +1,6 @@
+DB
+1
+TABLE_NAME
+3
+0
+AGE 0, NAME 1, *ID 0
